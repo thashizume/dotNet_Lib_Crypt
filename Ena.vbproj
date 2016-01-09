@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6A6672C6-342F-4269-B015-E89A066CC22C}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Polestar.Security</RootNamespace>
+    <RootNamespace>jp.polestar.security</RootNamespace>
     <AssemblyName>Cryptography</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Windows</MyType>
